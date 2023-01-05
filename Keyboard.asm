@@ -1,7 +1,6 @@
 ; ---------------------------------------------------------------
 ; Read a 2 digit decimal number and then print it to the console.
 ; Runs on 64-bit x86 Linux only.
-; Date: 2022-11-23, Author: Peter Gemmell
 ; ---------------------------------------------------------------
 
 section .bss
